@@ -6,7 +6,7 @@ layout: page
 Title : "Tightrope: security training for changemakers"
 ---
 
-![The Tightrope Logo](/assets/logo_colour.png)
+![The Tightrope Logo](/assets/logo.png)
 
 
 Some of you are going to take action for what you believe in. That might be climate change, litter in a local park, animal testing, more cycle lanes, or the need for a local climbing wall.   The problem is that this can expose you to all sorts of threats from people who might disagree with you. The dangers of digital life include doxing, swatting,  stalking, harassment, and abuse.
