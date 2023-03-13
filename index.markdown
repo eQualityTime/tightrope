@@ -9,20 +9,20 @@ Title : "Tightrope: security training for changemakers"
 ![The Tightrope Logo](/assets/logo.png)
 
 
-Some of you are going to take action for what you believe in. That might be climate change, litter in a local park, animal testing, more cycle lanes, or the need for a local climbing wall.   The problem is that this can expose you to all sorts of threats from people who might disagree with you. The dangers of digital life include doxing, swatting,  stalking, harassment, and abuse.
+Welcome Teachers!
 
-Our project works with young people who are interested in making changes. We help you both to:
+Are you looking for resources to teach your students how to protect themselves while advocating for change in their communities? Look no further! We offer a six-session "Security for Changemakers" course that equips students with the skills they need to stay safe while campaigning for issues they care about, such as the construction of a new local climbing wall, animal rights, or cycling lanes.
 
-* identify safe, reasonable, and useful steps to make changes, campaign, and find information. 
-* identify risks, assess them, and take appropriate counter-measures. You'll be thinking about the security trade-offs at individual, group, organisation, and cause level. 
+Our course is specifically designed to address the unique challenges faced by activists, protestors, and advocates. We cover topics such as digital security, physical safety, and legal considerations, all in the context of advocating for positive change.
 
-We offer 6-8 face-to-face sessions entirely for free, delivered by a combination of charity campaigners and cyber security experts.
+Our course materials include lesson plans, handouts, and interactive activities, all of which are designed to engage your students and help them learn in a fun and effective way. Our resources are targeted at 16-18 year olds but can be tailored to meet the specific needs of your classroom.
 
-## The Team
-* [Dr Elizabeth  Quaglia](https://lizquaglia.wordpress.com/)
-* [Joe Reddington](https://joereddington.com/)
 
-## Contact Us
-If you have any feedback on the programme, please get in touch and let us know.  We hope you and your students enjoy the programme.  We can be contacted at <a href="tightrope@equalitytime.co.uk">tightrope@equalitytime.co.uk</a>
+> you have made a potentially intimidating topic area very easy to teach
+>
+> 6th Form Teacher 
+
+<div class="link-container"> <a class="box" href="{{site.baseurl}}/lessons.html">Click here for the lessons</a>  
+</div>
 
 
