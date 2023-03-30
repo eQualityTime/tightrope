@@ -22,7 +22,7 @@ The change cards can be found [here]({{site.baseurl}}/assets/downloads/Change Ca
 
 Our 60 page guide for teachers gives full information on the background of the course, along with detailed guides to each session, including example scripts. 
 
-The guide for teachers can be found [here]({{site.baseurl}}/assets/downloads/Guide for Teachers.pdf). 
+The guide for teachers can be found [here]({{site.baseurl}}/assets/downloads/Guide for Teachers.pdf), and we also provide a docx formatted version [here]({{site.baseurl}}/assets/downloads/Guide for Teachers.docx).
 
 > Sessions were easy to understand, informative and interesting.
 > 
