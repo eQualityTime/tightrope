@@ -13,6 +13,8 @@ We provide teachers with six lesson plans that are designed to help students lea
 
 # General Resources 
 ##  Change cards 
+![Picture of Change cards](/assets/changecards.png)
+
 
 We created "change cards" to help teachers engage students in discussions and activities related to creating positive change. Some students may be too afraid or shy to express their ideas about social change, so the change cards randomly assign a social issue to each student during classroom activities. This helps students express their ideas and opinions about social issues in a safe and supportive environment. The change cards serve several purposes, such as helping students focus their ideas and develop a plan of action for addressing a specific social issue. Teachers can also use the cards to identify which social issues are important to their students and tailor their lessons and activities accordingly. 
 
@@ -42,8 +44,6 @@ The six lesson plans are as follows:
 
 
 
-
-
 > It has changed my perception of cybersecurity greatly and interested me on the subject greatly as well
 > 
 > _Lower 6th pupil_ 
@@ -53,3 +53,4 @@ The six lesson plans are as follows:
 We worked hard on these resources, and the only thing we ask is that you come back to us and let us know how your sessions went, and especially if your students created useful, safe, and long-lasting change in their communities. 
 
 
+![Drawing of someone copying other peoples' work](/assets/image1.png)

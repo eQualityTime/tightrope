@@ -26,3 +26,4 @@ Our course materials include lesson plans, handouts, and interactive activities,
 </div>
 
 
+![Some thermic art](/assets/image3.png)
